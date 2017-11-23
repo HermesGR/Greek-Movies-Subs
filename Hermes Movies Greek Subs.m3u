@@ -1,7 +1,25 @@
 
 #EXTM3U
 
-#EXTINF:1,Τετάρτη 4:45 
+#EXTINF:1,THE ASIAN CONNECTION
+plugin://plugin.video.youtube/?action=play_video&videoid=IyMtZuUgs34
+
+#EXTINF:1,ΜΙΑ ΓΥΝΑΙΚΑ ΣΤΟ ΒΕΡΟΛΙΝΟ
+plugin://plugin.video.youtube/?action=play_video&videoid=puc1WzY7whs
+
+#EXTINF:1,13 (Τζέισον Στέιθαμ)
+plugin://plugin.video.youtube/?action=play_video&videoid=zaSduNKA0X8
+
+#EXTINF:1,ΤΟ ΠΕΙΡΑΜΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=SnvxvuHx9B8
+
+#EXTINF:1,COP CAR
+plugin://plugin.video.youtube/?action=play_video&videoid=sk0SQOJCM0s
+
+#EXTINF:1,Η ΔΟΚΙΜΑΣΙΑ - THE RECRUIT 
+plugin://plugin.video.youtube/?action=play_video&videoid=-ULQ-oCwzgs
+
+#EXTINF:1,ΤΕΤΑΡΤΗ 4:45 
 plugin://plugin.video.youtube/?action=play_video&videoid=rIHxuV2vFQQ
 
 #EXTINF:1,Η ΕΚΡΗΞΗ (A BLAST) 
