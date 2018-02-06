@@ -1,6 +1,18 @@
 
 #EXTM3U
 
+#EXTINF:1,THE FRONT LINE / ΣΤΗΝ ΠΡΩΤΗ ΓΡΑΜΜΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=j66iwIpu_Rg
+
+#EXTINF:1,ABANDONED / ΕΓΚΑΤΑΛΕΛΕΙΜΜΕΝΗ
+plugin://plugin.video.youtube/?action=play_video&videoid=V2HaoAbr94I
+
+#EXTINF:1,ΤΟ ΠΕΙΡΑΜΑ
+plugin://plugin.video.youtube/?action=play_video&videoid=SnvxvuHx9B8
+
+#EXTINF:1,ΣΕΡΛΟΚ ΧΟΛΜΣ ΕΝΑΝΤΙΟΝ ΒΑΜΠΙΡ
+plugin://plugin.video.youtube/?action=play_video&videoid=iRPpdjJWukQ
+
 #EXTINF:1,THE ASIAN CONNECTION
 plugin://plugin.video.youtube/?action=play_video&videoid=IyMtZuUgs34
 
